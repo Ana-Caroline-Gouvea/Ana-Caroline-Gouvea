@@ -1,4 +1,3 @@
-# This is a basic workflow to help you get started with Actions
 # Nome da Actions:  
 name: Snake Game
 
@@ -23,9 +22,9 @@ jobs:
     # Repositorio que será utilizado para gerar os arquivos.
       - uses: Platane/snk@master
         id: snake-gif
-        com :
-          github_user_name : Ana-Caroline-Gouvea #Ana-Caroline-Gouvea
-          gif_out_path a  : dist/github-contribution-grid-snake.gif
+        with:
+          github_user_name: Ana-Caroline-Gouvea #Seu usuario
+          gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - run: git status
