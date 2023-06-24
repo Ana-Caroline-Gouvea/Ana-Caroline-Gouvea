@@ -3,4 +3,5 @@
 <div>
 <a href="https://github.com/Ana-Caroline-Gouvea">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Caroline-Gouvea&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>  
+</div>
+![snake gif](https://github.com/Ana-Caroline-Gouvea/Ana-Caroline-Gouvea/blob/output/github-contribution-grid-snake.svg)  
