@@ -6,7 +6,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Caroline-Gouvea&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Caroline-Gouvea-dev&layout=compact&theme=midnight-purple)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Caroline-Gouvea&layout=compact&theme=midnight-purple)
  
   <div display:flex>
     <img height="40em" width="40em"
