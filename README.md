@@ -3,17 +3,17 @@
 
 <div>
  
- <img width ="320" src="https://github-readme-stats.vercel.app/api?username=Ana-Caroline-Gouvea&theme=midnight-purple&show_icons=true"/>
- <img height="77em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Caroline-Gouvea&layout=compact&theme=midnight-purple"/>
+ <img width ="350" src="https://github-readme-stats.vercel.app/api?username=Ana-Caroline-Gouvea&theme=midnight-purple&show_icons=true"/>
+ <img height="82em" width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Caroline-Gouvea&layout=compact&theme=midnight-purple"/>
 
 </div>
  
   <div display:flex>
-    <img height="40em" width="40em"
+    <img height="30em" width="30em"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img height="40em" width="40em"
+    <img height="30em" width="30em"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />       
-    <img height="40em" width="40em"
+    <img height="30em" width="30em"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </div>
           
