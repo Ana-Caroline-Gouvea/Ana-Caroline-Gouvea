@@ -1,4 +1,4 @@
-![banner2 git0](https://github.com/Ana-Caroline-Gouvea/Ana-Caroline-Gouvea/assets/126121435/acf7f8ba-8a25-4524-b9de-ae86e0aaef42)
+![simplebanner git](https://github.com/Ana-Caroline-Gouvea/Ana-Caroline-Gouvea/assets/126121435/b9fea5fb-8512-48d4-af67-2fbe44c928e2)
 ![Snake gif](https://github.com/Ana-Caroline-Gouvea/Ana-Caroline-Gouvea/blob/output/github-contribution-grid-snake.svg)
 
 <div>
