@@ -1,11 +1,18 @@
+### 🍄Meu nome é Ana Caroline, tenho 17 anos e moro em Bariri-SP.
+
+### 💻Sou estudante de Técnico em Desenvolvimento de Sistemas pelo SENAI.
+
+### 📚Atualmente estudo no 2º ano do Ensino Médio do SESI-143. 
+
 ![simplebanner git](https://github.com/Ana-Caroline-Gouvea/Ana-Caroline-Gouvea/assets/126121435/210c624e-c642-45c5-a4b7-ba993afe4f8d)
-### Meu nome é Ana Caroline Gouvêa, tenho 17 anos e moro em Bariri-SP.
 <div>
  
  <img width ="340" src="https://github-readme-stats.vercel.app/api?username=Ana-Caroline-Gouvea&theme=midnight-purple&show_icons=true"/>
  <img height="97em" width="263em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Caroline-Gouvea&layout=compact&theme=midnight-purple"/>
 
 </div>
+
+<br>
 
 ### Front-End
 
