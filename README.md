@@ -8,6 +8,8 @@
 
 <br>
 
+<div display:flex>
+
 ### Front-End
 
   <div display:flex>
@@ -32,5 +34,7 @@
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
    <img height="30em" width="30em"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+  </div>
+
   </div>
           
