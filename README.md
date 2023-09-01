@@ -28,7 +28,7 @@
 
   ### Library
   <div display:flex>
-   <img height="35em" width="35em"
+   <img height="30em" width="30em"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
   </div>
           
