@@ -17,6 +17,8 @@
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />       
     <img height="30em" width="30em"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img height="30em" width="30em"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
   </div>
 
   ### Back-End
