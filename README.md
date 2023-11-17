@@ -24,6 +24,8 @@
   <div display:flex>
     <img height="30em" width="30em"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+   <img height="30em" width="30em"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   </div>
 
   ### Library
