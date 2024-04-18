@@ -22,8 +22,6 @@
   ### Back-End
   
   <div display:flex>
-    <img height="30em" width="30em"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
    <img height="33em" width="33em"
  src="https://github.com/Ana-Caroline-Gouvea/Ana-Caroline-Gouvea/assets/126121435/3543debf-4146-4b77-ad00-420f4e885de9"/>
 <img height="33em" width="33em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
