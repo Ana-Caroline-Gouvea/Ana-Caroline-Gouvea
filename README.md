@@ -11,26 +11,26 @@
 ### Front-End
 
   <div display:flex>
-    <img height="30em" width="30em"
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"> <img height="30em" width="30em"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img height="30em" width="30em"
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> <img height="30em" width="30em"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />       
-    <img height="30em" width="30em"
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> <img height="30em" width="30em"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </div>
 
   ### Back-End
   
   <div display:flex>
-   <img height="33em" width="33em"
+   <a href="https://www.w3schools.com/cs/index.php" target="_blank"> <img height="33em" width="33em"
  src="https://github.com/Ana-Caroline-Gouvea/Ana-Caroline-Gouvea/assets/126121435/3543debf-4146-4b77-ad00-420f4e885de9"/>
-<img height="33em" width="33em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img height="33em" width="33em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
   </div>
 
   ### Library
   <div display:flex>
    <a href="https://react.dev/" target="_blank"> <img height="30em" width="30em"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
-   <img height="30em" width="30em"
+   <a href="https://mui.com/material-ui/" target="_blank"> <img height="30em" width="30em"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
   </div>  
