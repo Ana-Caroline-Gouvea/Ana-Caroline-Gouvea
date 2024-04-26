@@ -33,6 +33,6 @@
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
    <a href="https://mui.com/material-ui/" target="_blank"> <img height="30em" width="30em"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-       <a href="https://reactnative.dev/" target="_blank"> <img height="30em" width="30em"
+       <a href="https://reactnative.dev/" target="_blank"> <img height="30em" width="50em"
   src="https://github.com/Ana-Caroline-Gouvea/Ana-Caroline-Gouvea/assets/126121435/430011ba-0793-4a9a-9946-493215ab9198" />
   </div>  
