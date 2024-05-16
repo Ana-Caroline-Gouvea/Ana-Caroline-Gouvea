@@ -37,4 +37,10 @@
   src="https://github.com/Ana-Caroline-Gouvea/Ana-Caroline-Gouvea/assets/126121435/430011ba-0793-4a9a-9946-493215ab9198" />
   </div>
 
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px"      
+   width="200px" align="right" alt="Computador">
+
+
+  
+
+ 
