@@ -12,11 +12,11 @@
 
 <br>
          
-<table height="255px">
+<table margin-top="500px" height="255px">
   <tr>
     <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="65px"/><br/>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="55px"/><br/>
         <sub>
           <b>
             <pre>HTML5</pre>
@@ -25,8 +25,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="65px"/><br/>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="55px"/><br/>
         <sub>
           <b>
             <pre>CSS3</pre>
@@ -35,8 +35,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="65px"/><br/>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="55px"/><br/>
         <sub>
           <b>
             <pre>Javascript</pre>
@@ -45,8 +45,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/](https://dotnet.microsoft.com/pt-br/languages/csharp">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg" width="65px"/><br/>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/](https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg" width="55px"/><br/>
         <sub>
           <b>
             <pre>C#</pre>
@@ -55,8 +55,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="65px"/><br/>
+      <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="55px"/><br/>
         <sub>
           <b>
             <pre>SQLServer</pre>
@@ -67,8 +67,8 @@
   </tr>
     <tr>
       <td align="center">
-      <a href="https://mui.com/material-ui/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="65px"/><br/>
+      <a href="https://mui.com/material-ui/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="55px"/><br/>
         <sub>
           <b>
             <pre>Material UI</pre>
@@ -77,8 +77,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://pt-br.reactjs.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  width="65px"/><br/>
+      <a href="https://pt-br.reactjs.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  width="55px"/><br/>
         <sub>
           <b>
             <pre>React.js</pre>
@@ -87,8 +87,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://reactnative.dev/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  width="65px"/><br/>
+      <a href="https://reactnative.dev/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  width="55px"/><br/>
         <sub>
           <b>
             <pre>React Native</pre>
@@ -97,8 +97,8 @@
      </a>
     </td>
     <td align="center">
-      <a href="https://code.visualstudio.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="65px"/><br/>
+      <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50px"/><br/>
         <sub>
           <b>
             <pre>VSCode</pre>
@@ -107,8 +107,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://visualstudio.microsoft.com/pt-br/vs/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="65px"/><br/>
+      <a href="https://visualstudio.microsoft.com/pt-br/vs/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="50px"/><br/>
         <sub>
           <b>
             <pre>Visual Studio</pre>
@@ -117,9 +117,26 @@
       </a>
     </td>
   </tr>
+ <tr>
+ <td align="center">
+      <a href="https://www.figma.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50px"/><br/>
+        <sub>
+          <b>
+            <pre>Figma</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
 </table>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/>
 <hr/>
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Ana-Caroline-Gouvea&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
+
+![Purple](https://raw.github.com/Ana-Caroline-Gouvea/github-contribution-color-graph/master/docs/contributions-purple.png)
+
+
 
 
   
