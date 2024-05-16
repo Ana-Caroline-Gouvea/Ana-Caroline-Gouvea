@@ -1,4 +1,7 @@
 ![simplebanner git](https://github.com/Ana-Caroline-Gouvea/Ana-Caroline-Gouvea/assets/126121435/210c624e-c642-45c5-a4b7-ba993afe4f8d)
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=Luk4x&labelColor=%23333333&countColor=%23527bbf&labelStyle=upper&label=Visitantes" alt="Contador de Visitas do Perfil no Github da Ana-Caroline-Gouvea" height="40px" />
+</div>
 <div>
  
  <img width ="340" src="https://github-readme-stats.vercel.app/api?username=Ana-Caroline-Gouvea&theme=midnight-purple&show_icons=true"/>
