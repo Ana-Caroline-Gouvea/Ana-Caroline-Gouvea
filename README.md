@@ -3,6 +3,8 @@
  
  <img width ="340" src="https://github-readme-stats.vercel.app/api?username=Ana-Caroline-Gouvea&theme=midnight-purple&show_icons=true"/>
  <img height="97em" width="263em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Caroline-Gouvea&layout=compact&theme=midnight-purple"/>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px"      
+  width="200px" align="right" alt="Computador">
 
 </div>
 
@@ -36,9 +38,6 @@
        <a href="https://reactnative.dev/" target="_blank"> <img height="30em" width="50em"
   src="https://github.com/Ana-Caroline-Gouvea/Ana-Caroline-Gouvea/assets/126121435/430011ba-0793-4a9a-9946-493215ab9198" />
   </div>
-
-   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px"      
-   width="200px" align="right" alt="Computador">
 
 
   
