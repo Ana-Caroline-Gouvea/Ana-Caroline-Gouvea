@@ -133,3 +133,4 @@
 <hr/>
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Ana-Caroline-Gouvea&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C199F3&height=110&section=footer"/>
