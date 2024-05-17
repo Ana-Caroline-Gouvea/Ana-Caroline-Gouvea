@@ -7,9 +7,22 @@
  <img height="97em" width="263em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Caroline-Gouvea&layout=compact&theme=midnight-purple"/>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px"      
   width="200px" align="right" alt="Computador">
-
 </div>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Ana-Caroline-Gouvea/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Ana-Caroline-Gouvea/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Ana-Caroline-Gouvea/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 <br>
 
 <table margin-top="500px" height="250px">
