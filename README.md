@@ -11,8 +11,8 @@
 </div>
 
 <br>
-         
-<table margin-top="500px" height="255px">
+
+<table margin-top="500px" height="250px">
   <tr>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank">
