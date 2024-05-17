@@ -1,6 +1,4 @@
-
-![Welcome to my profile! (1)](https://github.com/Ana-Caroline-Gouvea/Ana-Caroline-Gouvea/assets/126121435/fa854b00-d12f-40e7-93d5-32aa6a297bd4)
-
+![WelcomeMyProfile](https://github.com/Ana-Caroline-Gouvea/Ana-Caroline-Gouvea/assets/126121435/9dbbebd5-ba2c-478e-9c39-4a7c189a1941)
 <div align="center">
 </div>
 <div>
