@@ -1,4 +1,6 @@
-![simplebanner git](https://github.com/Ana-Caroline-Gouvea/Ana-Caroline-Gouvea/assets/126121435/210c624e-c642-45c5-a4b7-ba993afe4f8d)
+
+![Welcome to my profile! (1)](https://github.com/Ana-Caroline-Gouvea/Ana-Caroline-Gouvea/assets/126121435/fa854b00-d12f-40e7-93d5-32aa6a297bd4)
+
 <div align="center">
 </div>
 <div>
