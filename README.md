@@ -1,4 +1,3 @@
-![WelcomeMyProfile](https://github.com/Ana-Caroline-Gouvea/Ana-Caroline-Gouvea/assets/126121435/9dbbebd5-ba2c-478e-9c39-4a7c189a1941)
 <div align="center">
 </div>
 <div>
