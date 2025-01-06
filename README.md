@@ -126,16 +126,6 @@
         </sub>
       </a>
     </td>
-  <td align="center">
-      <a href="https://jmeter.apache.org/" target="_blank">
-        <img src="C:\Users\anago\OneDrive\Área de Trabalho\senai\Oraculo\site-oraculo\assets\img\JMeter.png" width="55px"/><br/>
-        <sub>
-          <b>
-            <pre>JMeter</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
 </table>
 <br/>
 <hr/>
