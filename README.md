@@ -128,8 +128,7 @@
     </td>
   <td align="center">
       <a href="https://jmeter.apache.org/" target="_blank">
-        <img src="![JMeter](https://github.com/user-attachments/assets/3555de7e-3138-46a8-903e-20447b9e3299)
-" width="55px"/><br/>
+        <img src="C:\Users\anago\OneDrive\Área de Trabalho\senai\Oraculo\site-oraculo\assets\img\JMeter.png" width="55px"/><br/>
         <sub>
           <b>
             <pre>JMeter</pre>
